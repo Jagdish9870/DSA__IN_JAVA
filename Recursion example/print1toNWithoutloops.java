@@ -17,7 +17,7 @@ static void printN(int i,int n){
         Scanner sc=new Scanner(System.in);
         System.out.println("enter  a number ");
         int n=sc.nextInt();
-printN(1,n);
+        printN(1,n);
 
         
     }
