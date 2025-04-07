@@ -24,7 +24,7 @@ public class fibonacciNumber {
 
     }
     
-
+    sc.close();
          
     }
     

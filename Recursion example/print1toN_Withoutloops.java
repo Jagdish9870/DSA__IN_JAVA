@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class print1toNWithoutloops{
+public class print1toN_Withoutloops{
 
 static void printN(int i,int n){
     if(i>n){
