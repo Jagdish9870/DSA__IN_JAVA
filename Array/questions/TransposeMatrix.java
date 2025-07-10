@@ -1,4 +1,4 @@
-package generalQue;
+package Array.questions;
 
 public class TransposeMatrix {
     public static void transpose(int[][] mat){

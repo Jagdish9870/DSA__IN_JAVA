@@ -1,4 +1,4 @@
-package generalQue;
+package StringQues;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package generalQue;
+package Array.questions;
 
 import java.util.Scanner;
 
@@ -21,6 +21,7 @@ public class SubArr {
                 System.out.println();
             }
         }
+        sc.close();
     }
     
 }

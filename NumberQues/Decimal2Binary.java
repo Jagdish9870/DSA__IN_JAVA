@@ -1,4 +1,4 @@
-package generalQue;
+package NumberQues;
 public class Decimal2Binary {
 	public String findDigitsInBinary(int A) {
 	    

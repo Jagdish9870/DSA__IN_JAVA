@@ -1,4 +1,4 @@
-package generalQue;
+package NumberQues;
 
 import java.util.Scanner;
 
