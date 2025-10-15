@@ -3,7 +3,7 @@ package StriversDSA.Hashing;
 import java.util.Scanner;
 
 //using array but there is one problem if the number is greater than 100000 then it will show ArrayIndexOutOfBoundsException so we can use HashMap -- for that there is another code in another file
-public class ApperanceOfNumber {
+public class AppearanceOfNumber {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println("enter the size and array of numbers ");
@@ -29,6 +29,7 @@ public class ApperanceOfNumber {
           System.out.println(hash[query[i]]);
 
         }
+        sc.close();
         
     }
     

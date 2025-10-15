@@ -1,4 +1,4 @@
-package StreamQuestion;
+package StreamAPIQuestion.MediumQ;
 
 public class PangramEx {
     public static boolean Ispangram(String s){
