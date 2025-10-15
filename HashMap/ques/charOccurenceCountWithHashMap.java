@@ -2,7 +2,6 @@ package HashMap.ques;
 
 import java.util.HashMap;
 
-import Hashing.Hash;
 
 public class charOccurenceCountWithHashMap{
     public static void countCharOccurrences(String str) {
